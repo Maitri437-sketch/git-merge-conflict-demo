@@ -1,1 +1,1 @@
-Application Mode: Basic
+Application Mode: Development
