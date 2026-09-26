@@ -1,2 +1,2 @@
-Application Mode: Basic
 Application Mode: Production
+
